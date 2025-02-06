@@ -28,6 +28,11 @@ Disclaimer: This is not an official Google product.
 
 ### Setup
 
+Version: Python 3.8.10
+```python
+pip install tensorflow dm-sonnet
+```
+
 First follow the instructions for [installing
 Sonnet](https://github.com/deepmind/sonnet).
 
